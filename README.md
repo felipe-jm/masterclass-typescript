@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="Typescript" src="./images/typescript.png" style="font-size: 128px;" />
+<img alt="Typescript" src="./images/typescript.png" width="128px" />
 <br>
 </h1>
 
